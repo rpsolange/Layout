@@ -1,0 +1,51 @@
+.padre{
+	border: 2px solid #4c4c33;
+	width: 850px;
+	position: relative;
+	left: 250px;
+}
+.foto{
+	border-radius: 50%;
+	position: relative;
+	left: 40%;
+	margin-top: 20px;
+}
+.texto{
+	width: 700px;
+    text-align: center;
+}
+
+.html, .css, .js{
+	height: 40px;
+	background-color: #4c4c33;	
+	color: white;
+	margin: 8px 90px;	
+}
+.html{
+    width: 400px;   
+  }
+.css{
+	width: 300px;
+}
+.js{
+	width: 150px;
+}
+.html p, .css p, .js p{
+	position: relative;
+	left: 10px;
+	top: 8px;
+}
+h2{
+	position: relative;
+	left: 60px;
+}
+.linea{
+    display: inline-block;    
+}
+.linea img{
+	width: 200px;
+    height: 130px;
+    margin: 15px;
+    position: relative;
+    left: 80px;
+}

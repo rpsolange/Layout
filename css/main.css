@@ -1,0 +1,37 @@
+ul{
+	text-align: center;
+}
+li{
+   border-right: 1px solid black;
+   display: inline-block; 
+   padding-right: 10px;
+   padding-left: 10px; 
+}
+li:last-child{
+   border-right: none;
+}
+.grupal{
+	width: 680px;
+	height: 450px;
+}
+.texto{
+    width: 430px;
+    height: 80px;
+    text-align: center;
+}
+h2, .one{
+	position: relative;
+	left: 290px;
+}
+div div {
+	margin: 20px;
+	position: relative;
+	left: 280px;
+	display: inline-block;
+}
+.cod p{
+	position: absolute;
+	bottom: 0px;
+	left: 80px;
+	color: white;
+}
